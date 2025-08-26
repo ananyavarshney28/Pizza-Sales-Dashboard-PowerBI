@@ -24,5 +24,5 @@ It showcases data modeling, DAX measures, and interactive visualizations.
 - `Pizza_Sales_Dashboard.pdf` → Exported static dashboard
 - `screenshots/` → Dashboard images
 
----
-🔗 Author: *[Your Name]*
+
+🔗 Author: *Ananya Varshney*
